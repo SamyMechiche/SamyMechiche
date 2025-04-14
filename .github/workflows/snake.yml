@@ -3,7 +3,7 @@ name: GitHub Contribution Snake
 on:
   push:
     branches:
-      - main  # Remplace "main" par le nom de ta branche principale
+      - main  # Remplace "main" si tu utilises une autre branche
 
 jobs:
   generate-snake:
@@ -16,8 +16,8 @@ jobs:
     - name: Generate Snake
       uses: Platane/snk@v2
       with:
-        github_user: SamyMechiche  # Remplace par ton nom d'utilisateur GitHub
-        svg_out_path: .github/snake/github-contribution-grid-snake.svg  # Chemin vers ton repo
+        github_user_name: SamyMechiche  # Remplace par ton nom d'utilisateur GitHub
+        entryPoint: .github/snake/github-contribution-grid-snake.svg # Le chemin du fichier .svg généré
 
     - name: Commit and push the generated Snake image
       run: |
