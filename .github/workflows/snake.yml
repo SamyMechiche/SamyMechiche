@@ -3,7 +3,7 @@ name: GitHub Contribution Snake
 on:
   push:
     branches:
-      - main  # Change "main" si tu utilises une autre branche, comme "master"
+      - output  # Change "main" si tu utilises une autre branche, comme "master"
 
 jobs:
   generate-snake:
