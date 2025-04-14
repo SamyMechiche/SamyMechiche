@@ -45,9 +45,9 @@ Welcome to my little corner of the internet — this repo is a quick snapshot of
 
 ## 📱 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [Instagram](https://www.instagram.com/your-handle-here)  
-- [Xiaohongshu / 小红书](https://www.xiaohongshu.com/user/profile/your-id-here)  
+- [LinkedIn](https://www.linkedin.com/in/samy-mechiche-3918a51ab)  
+- [Instagram](https://www.instagram.com/samy_vmch/)  
+- [Xiaohongshu / 小红书](https://www.xiaohongshu.com/user/profile/26542617444)  
 
 > ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
