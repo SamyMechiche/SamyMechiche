@@ -1,19 +1,23 @@
-# 👋 Hey, I'm SamyMechiche
+<h1 align="center">Hey, I'm Samy 👋</h1>
+<h3 align="center">Web Developer • Video Creator • Language Enthusiast</h3>
 
-Welcome to my little corner of the internet — this repo is a quick snapshot of who I am, what I do, and what I enjoy 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Web+Dev;Creative+Video+Editor;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently diving deep into **Web Development**
-- 🎨 Passionate about **Front-End**: HTML, CSS, JavaScript
-- 🔧 Also confident with **Back-End**: PHP, MySQL, JavaScript (Node)
-- 🎥 I also work with **video editing** and content creation
+Hey! I'm **Samy Mechiche**, a web developer currently focused on both front-end and back-end development.
 
-## 🔍 Looking For
+- 💻 I build websites using **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**
+- 🔧 Also working with **Python**, **WordPress**, **Vue.js**, **Symfony**
+- 📸 I create videos too — visual storytelling is my thing!
+- 🧠 I'm always open to **freelance work**, **collaborations**, or fun side projects.
+- 🌍 I love learning languages: fluent in **French**, speak **English** (B2/C1) and **Chinese** (HSK3–4)
 
-- 💼 **Freelance projects** that challenge and inspire
-- 🤝 **Collaborations** with other devs or creatives
-- 📬 Open to opportunities — let’s connect!
+---
 
 ## 🛠 Tech Stack
 
@@ -27,6 +31,7 @@ Welcome to my little corner of the internet — this repo is a quick snapshot of
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
+---
 
 ## 🌐 Languages
 
@@ -34,23 +39,23 @@ Welcome to my little corner of the internet — this repo is a quick snapshot of
 ![English](https://img.shields.io/badge/English-B2--C1-blue?style=for-the-badge&logo=github)
 ![中文](https://img.shields.io/badge/中文-HSK3--4-red?style=for-the-badge&logo=github)
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamyMechiche&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyMechiche&layout=compact&theme=tokyonight" height="160"/>
-</div>
+## 🌍 Portfolio
+
+🔗 [samymechiche.dev](https://samymechiche.dev)
 
 ---
 
 ## 📱 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/samy-mechiche-3918a51ab)  
-- [Instagram](https://www.instagram.com/samy_vmch/)  
-- [Xiaohongshu / 小红书](https://www.xiaohongshu.com/user/profile/26542617444)  
-
-> ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-mechiche-3918a51ab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/samy_vmch/)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-DC143C?style=flat&logo=redbubble&logoColor=white)](https://www.xiaohongshu.com/user/profile/26542617444)
 
 ---
 
-Thanks for stopping by! 😊
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamyMechiche&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
