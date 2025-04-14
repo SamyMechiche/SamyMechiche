@@ -56,10 +56,8 @@ Hey! I'm **Samy Mechiche**, a web developer currently focused on both front-end 
 ## 🐍 Snake Game - Contribution Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamyMechiche/samymechiche/output/dist/snake-image.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/SamyMechiche/samymechiche/main/.github/snake/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
-
 
 ---
 
