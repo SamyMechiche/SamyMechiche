@@ -3,7 +3,7 @@ name: GitHub Contribution Snake
 on:
   push:
     branches:
-      - main # Remplace par la branche que tu utilises pour ton code
+      - main  # Change "main" si tu utilises une autre branche, comme "master"
 
 jobs:
   generate-snake:
@@ -16,7 +16,7 @@ jobs:
     - name: Generate Snake
       uses: Platane/snk@v2
       with:
-        github_user: SamyMechiche # Remplace par ton username GitHub
+        github_user: SamyMechiche  # Remplace par ton username GitHub
         svg_out_path: dist/github-contribution-grid-snake.svg
 
     - name: Upload Snake Image
@@ -24,3 +24,11 @@ jobs:
       with:
         name: snake-image
         path: dist/github-contribution-grid-snake.svg
+
+    - name: Set up GitHub Pages
+      run: |
+        mkdir -p dist
+        mv dist/github-contribution-grid-snake.svg dist/snake-image.svg
+        git add dist/snake-image.svg
+        git commit -m "Add Snake Image"
+        git push
