@@ -44,8 +44,21 @@ Hey! I'm **Samy Mechiche**, a web developer currently focused on both front-end 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamyMechiche&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyMechiche&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
 </p>
+
+---
+
+## 🐍 Snake Game - Contribution Tracker
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamyMechiche/SamyMechiche/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ---
 
