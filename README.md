@@ -41,12 +41,6 @@ Hey! I'm **Samy Mechiche**, a web developer currently focused on both front-end 
 
 ---
 
-## 🌍 Portfolio
-
-🔗 [samymechiche.dev](https://samymechiche.dev)
-
----
-
 ## 📱 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-mechiche-3918a51ab)
