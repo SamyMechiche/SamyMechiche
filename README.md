@@ -15,7 +15,7 @@ Hey! I'm **Samy Mechiche**, a web developer currently focused on both front-end 
 - 🔧 Also working with **Python**, **WordPress**, **Vue.js**, **Symfony**
 - 📸 I create videos too — visual storytelling is my thing!
 - 🧠 I'm always open to **freelance work**, **collaborations**, or fun side projects.
-- 🌍 I love learning languages: fluent in **French**, speak **English** (B2/C1) and **Chinese** (HSK3–4)
+- 🌍 I love learning languages: fluent in **French**, speak **English** (B2/C1) and **Chinese** (HSK2-3)
 
 ---
 
