@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • Video Creator • Language Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Web+Dev;Creative+Video+Editor;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Dev;Creative+Video+Editor;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
 </p>
 
 ---
